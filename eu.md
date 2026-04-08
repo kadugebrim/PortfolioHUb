@@ -2,7 +2,7 @@
 
 Repositório destinado ao meu portfólio pessoal e acadêmico. Aqui centralizo meus projetos, tecnologias de estudo e minha trajetória na graduação.
 
-**🔗 Link do Site:** [Acesse aqui](https://kadugebrim.github.io/portfolioHUB/)
+**🔗 Link do Site:** [Acesse aqui] (https://kadugebrim.github.io/PortfolioHUb/) 
 
 ---
 
