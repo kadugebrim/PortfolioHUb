@@ -27,5 +27,5 @@ Atuação no auxílio a alunos nas disciplinas:
 ---
 
 ## Contato
-* [LinkedIn](https://linkedin.com/in/kadugebrim)
+* [LinkedIn](www.linkedin.com/in/kadu-gebrim-12a53b2a7)
 * [E-mail](mailto:kadugebrim@gmail.com)
